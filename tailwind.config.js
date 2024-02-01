@@ -79,8 +79,8 @@ module.exports = {
         "sky-light":
           "-16px 20px 40px rgba(215, 215, 215, 0.3), -2px 2px 24px rgba(22, 28, 47, 0.3), -16px 28px 120px rgba(0, 0, 0, 0.1)",
         "orange-dark":
-          "-16px 20px 40px rgba(244, 102, 0, 0.3), -2px 2px 24px rgba(255, 144, 64, 0.6), -16px 28px 120px rgba(244, 102, 0, 0.1)",
-        'switcher':
+          "-16px 20px 40px rgba(201, 118, 0, 0.3), -2px 2px 24px rgba(255, 144, 64, 0.6), -16px 28px 120px rgba(244, 102, 0, 0.1)",
+        'switcher':	
           "0px -6px 24px #FFFFFF, 0px 7px 16px rgba(104, 132, 157, 0.5)",
         'up': "0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #fff",
         'down': "inset 0.2rem 0.2rem 0.5rem #c8d0e7, inset -0.2rem -0.2rem 0.5rem #fff",
